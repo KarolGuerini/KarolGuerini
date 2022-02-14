@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Karol Guerini! 👋
 
 - 🔭 Atuo com QA
-- 🌱 Estudando Java
-- 📫 Contate-me no email: karolguerinimec@gmail.com
+- 🌱 Estudante de Java
 
 <div align="center">
   <a href="https://github.com/KarolGuerini">

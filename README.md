@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Karol Guerini! 👋
 
 - 🔭 Atuo com QA
-- 🌱 Estudante de Java
 
 <div align="center">
   <a href="https://github.com/KarolGuerini">

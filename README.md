@@ -2,7 +2,6 @@
 
 - 🔭 Atuo com QA
 - 💻 Sou entusiasta em testes de API Rest
-- 💣 Sou estudante de Java e Python para atuar com automação de testes
 
 
 <div> 

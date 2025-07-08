@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Karol Guerini! 👋
 
-- 🔭 Atuo com QA
-- 💻 Sou entusiasta em testes de API Rest
+- QA Sênior
+- Trabalho com testes manuais e automatizados
+- Tenho experiência com testes web, API e mobile
+- Acompanhe dicas de conteúdos gratuitos no meu site: https://karolqualitylab.com/
 
 
 <div> 

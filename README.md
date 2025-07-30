@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-- <a href="mailto:karoltech20@gmail.com" title="Gmail">
+- <a href="mailto:karolguerinimec@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 

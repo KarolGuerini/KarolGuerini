@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Eu sou a Karol Guerini!</h2>
 
-✨ **Sobre mim**
+# ✨ Sobre mim
 
 - 🎯 QA Sênior com experiência em testes manuais e automatizados  
 - 💻 Atuo com testes Web, API e Mobile  
@@ -9,7 +9,7 @@
 
 ---
 
-📊 **Estatísticas do GitHub**
+# 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karolguerini&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="Estatísticas do GitHub" />
@@ -18,7 +18,8 @@
 
 ---
 
-🛠️ **Tecnologias e Ferramentas**
+# 🛠️ Tecnologias e Ferramentas
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />

@@ -2,10 +2,11 @@
 
 # ✨ Sobre mim
 
-- 🎯 QA Sênior com experiência em testes manuais e automatizados  
+- 🎯 Atuo como <strong>QA Sênior</strong>, com experiência sólida em testes manuais e automatizados, entregando software com excelência e propósito. 🚀QA Sênior com experiência em testes manuais e automatizados  
 - 💻 Atuo com testes Web, API e Mobile  
 - ❤️ Apaixonada por compartilhar conhecimento na área de Qualidade de Software  
 - 🔗 Acompanhe conteúdos gratuitos no meu site: [karolqualitylab.com](https://karolqualitylab.com/)
+- Sou apaixonada por qualidade, curiosa por natureza e movida por desafios que exigem análise crítica e pensamento estratégico.  
 
 ---
 

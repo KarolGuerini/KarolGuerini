@@ -52,7 +52,7 @@
 </div>
 
 ---
-🔗 **Contúedos sobre QA **
+🔗 **Contúedos sobre QA**
 
 ---
 

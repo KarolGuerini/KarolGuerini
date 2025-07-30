@@ -48,7 +48,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Chrome" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="Safari" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="Cucumber" />
-  (https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="40" alt="Postman" />
+
+  
 </div>
 
 ---

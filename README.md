@@ -25,7 +25,7 @@
 
 | Categoria | Ferramentas e Tecnologias |
 |----------|---------------------------|
-| **Testes Automatizados** | Cypress, Selenium, Rest Assured |
+| **Testes Automatizados** | Cypress, Selenium, Rest Assured, Appium |
 | **Testes de API** | Postman, Swagger|
 | **Versionamento & CI/CD** | Git, GitHub Actions |
 | **Linguagens** | JavaScript, Java |

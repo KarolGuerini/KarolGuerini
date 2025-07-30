@@ -11,3 +11,7 @@
  
  
 </div>
+
+<img src="https://raw.githubusercontent.com/KarolGuerini/KarolGuerini/output/snake.svg" alt="Snake animation" />
+
+###

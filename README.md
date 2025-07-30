@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Karol Guerini and I'm a QA</h2>
+<h2 align="left">Olá 👋! Eu sou a Karol Guerini! A</h2>
+- QA Sênior
+- Trabalho com testes manuais e automatizados
+- Tenho experiência com testes web, API e mobile
+- Acompanhe dicas de conteúdos gratuitos no meu site: https://karolqualitylab.com/
 
 ###
 

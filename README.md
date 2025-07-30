@@ -52,6 +52,9 @@
 </div>
 
 ---
+🔗 **Contúedos sobre QA **
+
+---
 
 📫 **Conecte-se comigo**
 

@@ -53,7 +53,7 @@
 
 ---
 🔗 **Contúedos sobre QA**
-
+- https://github.com/KarolGuerini/QA-QC-QE-Testador
 ---
 
 📫 **Conecte-se comigo**

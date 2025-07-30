@@ -52,8 +52,11 @@
 </div>
 
 ---
-🔗 **Contúedos sobre QA**
-- https://github.com/KarolGuerini/QA-QC-QE-Testador
+
+# 📂 Acesse os meus conteúdos sobre QA
+
+📝 Confira o artigo completo no arquivo 👉 [QA-QC-QE-Testador.md](./QA-QC-QE-Testador.md)
+
 ---
 
 📫 **Conecte-se comigo**

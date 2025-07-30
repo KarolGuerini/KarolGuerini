@@ -58,3 +58,6 @@
 <a href="https://www.linkedin.com/in/karol-guerini/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karolguerini&theme=dracula)](https://github.com/karolguerini/github-readme-activity-graph)
